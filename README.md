@@ -9,4 +9,5 @@ sudo apt-get install tesseract-ocr
 
 pip install pytesseract
 
-
+Установите библиотеку pillow
+pip install pillow
